@@ -65,6 +65,7 @@ PROMPT=$'%F{green}→R.K.M%f:%F{blue}%~%f$ '
 alias update="pkg update && pkg upgrade"
 alias cls="clear"
 alias dd="cd Downloader && python yt.py"
+alias ca="pkg install openssl ca-certificates"
 
 EOF
 
