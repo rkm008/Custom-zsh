@@ -64,6 +64,7 @@ PROMPT=$'%F{green}→R.K.M%f:%F{blue}%~%f$ '
 # Aliases
 alias update="pkg update && pkg upgrade"
 alias cls="clear"
+alias dd="cd Downloader && python yt.py"
 
 EOF
 
